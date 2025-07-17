@@ -1,0 +1,17 @@
+{
+  "version": "1.0",
+  "license": "GPL-3.0",
+  "description": {
+    "en": "Emby Media Server with Emby-Unlocked"
+  },
+  "requirements": {
+    "yunohost": ">= 11.0.0"
+  },
+  "id": "emby",
+  "name": {
+    "en": "Emby Unlocked"
+  },
+  "services": [
+    "docker"
+  ]
+}
